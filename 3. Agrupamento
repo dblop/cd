@@ -1,0 +1,19 @@
+Questão 1) Considerando as colunas Sepal Length e Sepal Width, do arquivo iris, execute os seguintes algoritmos (considerando 3 clusters):
+
+a) K-means (centroíde inicial aleatório)
+
+b) Complete Linkage
+
+c) DBScan
+
+Questão 2) Se os centroides iniciais do k-means forem alterados, o resultado será o mesmo?
+
+Questão 3) O número mínimo de grupos no algoritmo K-Means é igual à raiz quadrada do número de elementos da base?
+
+Questão 4) a diferença entre os algoritmos acima?
+
+Questão 5) a diferença entre os algoritmos da questão 1?
+
+Questão 6) O algoritmo K-Median é mais sensível a outliers do que os algoritmos K-Means, K-Moda e K-Medoid?
+
+Questão 7) Para conjuntos de dados com milhões de linhas é aconselhada a utilização de algoritmos hierárquicos em vez de algoritmos particionais pois aqueles calculam somente uma única matriz de distância?
